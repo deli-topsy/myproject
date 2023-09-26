@@ -17,6 +17,7 @@ box-shadow:0 4px 8px 0 rgb(0, 0, 0);
     padding: 2px 16px;
 }
 img{
+    border-radius: 10%;
     border-top-right-radius: 10%;
     border-top-left-radius: 10%;
 }
